@@ -1,0 +1,34 @@
+.shortcut-modal table {
+	border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+
+.shortcut-modal .nice-table th {
+    background-color: #f5f5f5;
+}
+.shortcut-modal .nice-table th, .shortcut-modal .nice-table td {
+    border: 1px solid #e0e0e0;
+    padding: 4px 12px;
+}
+
+.shortcut-modal tr td, .shortcut-modal tr th {
+    padding: 5px;
+}
+.shortcut-modal th {
+    color: #212121;
+}
+.shortcut-modal th {
+    color: #757575;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: baseline;
+}
+.shortcut-modal td, .shortcut-modal th {
+    padding: 13px 5px;
+    position: relative;
+}
+

@@ -1,0 +1,1 @@
+console.error("Error: Cannot find module 'react-modal' from '/Users/James/Desktop/development/deMobo/modal/src'");
